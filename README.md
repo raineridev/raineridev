@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧩• Yampi Technical Support<br>🌱• Continuous Learning<br>📖• Never stop studying
+🧩• Support analyst<br>🌱• Continuous Learning<br>📖• Never stop studying
 
  💻 Tech Stack:
  
