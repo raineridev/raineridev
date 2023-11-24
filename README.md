@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧩• Support analyst<br>🌱• Continuous Learning<br>📖• Never stop studying
+🌱• Continuous Learning<br>📖• Never stop studying
 
  💻 Tech Stack:
  
