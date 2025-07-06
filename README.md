@@ -15,23 +15,6 @@ I recently spent some time in Portugal and am now back in **Brazil**, working on
 
 ---
 
-## 🧠 Currently Learning & Improving
-
-- ✅ Advanced Laravel features: Queues, Jobs, Notifications, Passport/JWT
-- ✅ Vue 3 + Nuxt for scalable frontends
-- ✅ C programming for deeper system-level understanding
-- ⚙️ System design & microservices architecture
-- 🧵 Advanced Laravel concepts: Queues, Jobs, Notifications, Passport
-- ⌛ Improving my **English** for international collaboration
-
----
-
-## 📌 Featured Projects
-
-{}
-
----
-
 ## 💬 Let’s Connect
 
 - 📧 Email: [mraineridev@gmail.com](mailto:mraineridev@gmail.com)
